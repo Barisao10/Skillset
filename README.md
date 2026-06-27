@@ -26,6 +26,7 @@ Ich bin ein kreativer Designer mit einem Auge für Details und einem starken Ges
 
 ## 📫 Kontakt
 
+- 🐙 [github.com/Barisao10](https://github.com/Barisao10)
 - 📧 baris_orhan@web.de
 
 ---
